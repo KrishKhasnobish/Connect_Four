@@ -5,8 +5,6 @@
 #include "connect.h"
 #include "cs136-trace.h"
 
-// === THERE IS NO NEED TO MODIFY THE MAIN FUNCTION ===========================
-
 // The program accepts the following commands:
 // * INIT
 //   Initializes a new game of Connect Four
